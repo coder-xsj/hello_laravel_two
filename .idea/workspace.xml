@@ -4,7 +4,6 @@
     <list default="true" id="0c3ff658-ffff-4a3e-a593-ba0bb71b85f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/static_pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -194,26 +193,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1385" height="301" key="GridCell.Tab.0.bottom" timestamp="1607438599665">
+    <state width="1385" height="200" key="GridCell.Tab.0.bottom" timestamp="1607438658127">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1385" height="301" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1607438599665" />
-    <state width="1385" height="301" key="GridCell.Tab.0.center" timestamp="1607438599665">
+    <state width="1385" height="200" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1607438658127" />
+    <state width="1385" height="200" key="GridCell.Tab.0.center" timestamp="1607438658127">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1385" height="301" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1607438599665" />
-    <state width="1385" height="301" key="GridCell.Tab.0.left" timestamp="1607438599665">
+    <state width="1385" height="200" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1607438658127" />
+    <state width="1385" height="200" key="GridCell.Tab.0.left" timestamp="1607438658127">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1385" height="301" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1607438599665" />
-    <state width="1385" height="301" key="GridCell.Tab.0.right" timestamp="1607438599665">
+    <state width="1385" height="200" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1607438658127" />
+    <state width="1385" height="200" key="GridCell.Tab.0.right" timestamp="1607438658127">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1385" height="301" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1607438599665" />
-    <state x="495" y="378" key="NewPhpFileDialog" timestamp="1607433878255">
+    <state width="1385" height="200" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1607438658127" />
+    <state x="495" y="378" key="NewPhpFileDialog" timestamp="1607438728892">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="495" y="378" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1607433878255" />
+    <state x="495" y="378" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1607438728892" />
     <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1607433060374">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
