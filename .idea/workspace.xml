@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c3ff658-ffff-4a3e-a593-ba0bb71b85f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:coder-xsj/hello_laravel_two.git" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -137,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/users" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -148,6 +158,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\Laravel-two\resources\views\users" />
       <recent name="D:\xampp\htdocs\Laravel-two\resources\views\layouts" />
       <recent name="D:\xampp\htdocs\Laravel-two\resources\views\static_pages" />
     </key>
@@ -196,6 +207,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="324" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607582002734">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="324" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.920@0.0.1440.920" timestamp="1607582002734" />
+    <state x="329" y="70" key="#phpunit.xml" timestamp="1607582651100">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="329" y="70" key="#phpunit.xml/0.0.1440.920@0.0.1440.920" timestamp="1607582651100" />
     <state width="1385" height="200" key="GridCell.Tab.0.bottom" timestamp="1607441984323">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -212,10 +231,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1385" height="200" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1607441984323" />
-    <state x="495" y="378" key="NewPhpFileDialog" timestamp="1607526522282">
+    <state x="495" y="378" key="NewPhpFileDialog" timestamp="1607582328201">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="495" y="378" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1607526522282" />
+    <state x="495" y="378" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1607582328201" />
     <state x="329" y="148" width="949" height="624" key="find.popup" timestamp="1607579695481">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
