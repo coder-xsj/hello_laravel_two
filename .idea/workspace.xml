@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c3ff658-ffff-4a3e-a593-ba0bb71b85f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,17 +266,17 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1385" height="200" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1607441984323" />
-    <state x="495" y="378" key="NewPhpFileDialog" timestamp="1607582328201">
+    <state x="495" y="378" key="NewPhpFileDialog" timestamp="1607586584394">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="495" y="378" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1607582328201" />
+    <state x="495" y="378" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1607586584394" />
     <state x="329" y="148" width="949" height="624" key="find.popup" timestamp="1607579695481">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="329" y="148" width="949" height="624" key="find.popup/0.0.1440.920@0.0.1440.920" timestamp="1607579695481" />
-    <state x="299" y="0" width="840" height="918" key="search.everywhere.popup" timestamp="1607584755149">
+    <state x="299" y="0" width="840" height="918" key="search.everywhere.popup" timestamp="1607586227295">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="299" y="0" width="840" height="918" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1607584755149" />
+    <state x="299" y="0" width="840" height="918" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1607586227295" />
   </component>
 </project>
