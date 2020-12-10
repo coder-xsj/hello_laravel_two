@@ -22,6 +22,14 @@ class UsersController extends Controller
             'password' => 'required|min:6|confirmed',
             'email' => 'required|email|unique:users|max:255',
         ]);
-        return;
+        // 写入数据库
+        $user = User::create([
+            'name' => $request->name,
+            'email' => $request->email,
+            'password' => bcrypt($request->password),
+        ]);
+        session()->flash('success', '欢迎，您将在这里开启一段新的旅程~');
+        // 重定向到个人主页
+        return redirect()->route('users.show', [$user]);
     }
 }
